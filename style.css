@@ -1,0 +1,179 @@
+
+.contain{
+   
+    background-color:#fff9f8;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+   
+}
+.D-item{
+    background-color:#f94a3d;
+    color:white;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:5px;
+    margin-left:130px;
+    width:70px;
+    height:30px;
+  
+  
+    
+}
+
+.Fd{
+    color:#f94a3d;
+    width:400px;
+}
+.contain>nav>a{
+    text-decoration: none;
+    color:#828194;
+   margin-inline: 20px;;
+}
+.empty{
+    border:none;
+    background-color:white;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 20px;
+   width:600px;
+   
+
+}
+input[type=text]{
+    border:none;
+    border-radius: 5px;
+}
+input::placeholder {
+    padding:10px;
+
+}
+.buton{
+    background-color:#f94a3d;
+    color:white;
+    padding:10px;
+    border:none;
+    margin-right:100px;
+    width:200px;
+    margin-block:15px;
+    border-radius: 10px;
+}
+.para{
+    background-color: #fdecec;
+    width:150px;
+    padding:8px;
+    border-radius: 15px;
+    margin-left:130px;
+    margin-top:100px;
+    color:#f94a3d;
+}
+.head{
+   color: #212244;
+   width:320px;
+   margin-left:130px;
+}
+.spn{
+    color:#f94a3d;
+}
+.para-2{
+    width:400px;
+   margin-left:130px;
+   color:#8e8b98;
+}
+.exbtn{
+    background-color:#f94a3d;
+    color:white;
+    padding:10px;
+    border:none;
+    margin-left:130px;
+    width:150px;
+   
+    border-radius: 10px;
+}
+.imag{
+    width:600px;
+   margin-right:40px;
+}
+.body-sec{
+    display:flex;
+}
+.body-head{
+    width:270px;
+    color:#212244;
+    margin-left:130px;
+    margin-top: 40px;
+
+}
+.body-card{
+    width:220px;
+    height:300px;
+    margin-top: 30px;
+    margin-left:50px;
+    box-shadow:0px 5px 10px rgba(0, 0, 0, 0.3) ;
+    padding:15px;
+    color:#212244;
+    border-radius: 10px;
+}
+.product{
+    color:#212244;
+}
+.cart{
+    display:flex;
+    justify-content: center;
+}
+.cart-btn{
+    border: 1px solid #f94a3d;
+    color:#f94a3d;
+    border-radius:8px;
+    background-color: transparent;
+}
+.third{
+    background-color:#f94a3d;
+    color:white;
+}
+.third-cont{
+    background-color:#f8f8f8;
+}
+.first-per{
+   
+    margin-left: 130px;
+   padding-top: 80px;
+  
+   
+ 
+    
+}
+.first-p{
+    margin-left: 130px;
+    padding-top: 20px;
+}
+.ros{
+    text-align: center;
+}
+.market{
+    font-size: 12px;
+    color:#8e8b98;
+}
+.foot-sec{
+    background-color:#fffbf7;
+   
+}
+.final{
+    padding-bottom: 50px;
+}
+table{
+   margin:100px;
+  
+}
+th{
+    padding:30px;
+    width:1000px;
+    text-align: center;
+}
+td{
+    
+    padding:10px;
+    width:1000px;
+}
